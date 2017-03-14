@@ -17,3 +17,5 @@ This project requires **Python 3.5** and the following Python libraries installe
 - [TensorFlow](http://tensorflow.org)
 - [Matplotlib](http://matplotlib.org/)
 - [Pandas](http://pandas.pydata.org/)
+
+Data files are available in: https://drive.google.com/open?id=0B2aeNxAHccrqN2FyNWRuVDgxdzA
